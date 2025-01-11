@@ -1,4 +1,4 @@
-ArkOS
+## ArkOS
 
 ArkOS is a minimalist operating system designed as a learning project to understand the fundamentals of operating system development. It includes modules for file systems, calculators, package management, logical volume management (LVM), and more. This project provides a basic foundation for kernel development and is ideal for students, hobbyists, or anyone interested in low-level programming.
 
